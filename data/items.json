@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "T-Shirt",
+    "price": "$20",
+    "image": "images/shirt.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Jeans",
+    "price": "$40",
+    "image": "images/jeans.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Sneakers",
+    "price": "$60",
+    "image": "images/shoes.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Jacket",
+    "price": "$80",
+    "image": "images/jacket.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Cap",
+    "price": "$15",
+    "image": "images/cap.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Socks",
+    "price": "$5",
+    "image": "images/socks.jpg"
+  }
+]
